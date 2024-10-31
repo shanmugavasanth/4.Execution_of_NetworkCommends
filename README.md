@@ -27,6 +27,25 @@ This commands includes
 <BR>
 
 ## Output
+netstat (cpdump):
+
+![image](https://github.com/user-attachments/assets/d83f1633-9300-40c1-8120-9a31460255d1)
+
+ipconfig (ifconfig):
+
+![image](https://github.com/user-attachments/assets/1846c787-3dcf-4296-8dad-def6e1c4ab2c)
+
+nslookup:
+
+![image](https://github.com/user-attachments/assets/9fad7003-f3f2-40b0-af04-736108d766ea)
+
+tracert (traceroute):
+
+![image](https://github.com/user-attachments/assets/7b9fbb39-0640-417d-b7a9-bdf1a6035832)
+
+ping:
+
+![image](https://github.com/user-attachments/assets/77d19f1d-bb5d-413f-8c4f-9997da2631cb)
 
 ## Result
 Thus Execution of Network commands Performed 
